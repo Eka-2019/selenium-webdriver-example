@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="JSExecutorTestSuite" verbose="1">
+
+    <test name="JSExecutorTest">
+        <classes>
+            <class name="com.herokuapp.theinternet.javascriptexecutor.JavaScriptExecutorTest" />
+        </classes>
+    </test>
+
+</suite>

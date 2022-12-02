@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="HorisontalSliderTestSuite" verbose="1">
+
+    <test name="HorisontalSliderTest">
+        <classes>
+            <class name="com.herokuapp.theinternet.slider.HorisontalSliderTest" />
+        </classes>
+    </test>
+
+</suite>
